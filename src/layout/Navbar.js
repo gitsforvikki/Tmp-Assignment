@@ -50,7 +50,7 @@ let Navbar = ()=>{
             {/* <a href={"../problems/ProblemA"} class="bg-gray-900 text-white rounded-md px-3 py-2 text-sm font-medium" aria-current="page">Dashboard</a> */}
             <Link to="/" class="bg-gray-900 text-white rounded-md px-3 py-2 text-sm font-medium">Home</Link>
             <Link to="/problemA" class="text-gray-300 hover:bg-gray-700 hover:text-white block rounded-md px-3 py-2 text-base font-medium">ProblemA</Link>
-            <Link to="/problemB" class="text-gray-300 hover:bg-gray-700 hover:text-white block rounded-md px-3 py-2 text-base font-medium">ProblemA</Link>
+            <Link to="/problemB" class="text-gray-300 hover:bg-gray-700 hover:text-white block rounded-md px-3 py-2 text-base font-medium">ProblemB</Link>
             <Link to="/problemC" class="text-gray-300 hover:bg-gray-700 hover:text-white block rounded-md px-3 py-2 text-base font-medium">ProblemC</Link>
           </div>
         </div>
